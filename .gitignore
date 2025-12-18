@@ -1,0 +1,6 @@
+__pycache__/
+*.env
+*.pkl
+models/embeddings/*
+data/cleaned/*
+data/chunks/*
